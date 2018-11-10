@@ -11,7 +11,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2de662b11e984b80b5c6b87dacfe365, type: 3}
   m_Name: Room 1
   m_EditorClassIdentifier: 
-  storyText: I am in room 1!
+  storyText: 'In The Pines, you find a Gray Wolf (Canis lupus)!
+
+
+    What would you like to do next?
+
+
+    1. Go to The Meadows
+
+    2. Return to StartingState'
   nextStates:
   - {fileID: 11400000, guid: 2c711e247830c4316b10a490fa031b65, type: 2}
   - {fileID: 11400000, guid: 9296f4b92a45044f3b6e854ffb08a417, type: 2}

@@ -11,7 +11,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2de662b11e984b80b5c6b87dacfe365, type: 3}
   m_Name: Room 2
   m_EditorClassIdentifier: 
-  storyText: This looks like room 2!
+  storyText: 'In The Meadows, you find a White-tailed Deer (Odocoileus virginianus)!
+
+
+    What would you like to do next?
+
+
+    1. Go to The Meadows
+
+    2. Return to StartingState'
   nextStates:
   - {fileID: 11400000, guid: 01cad6c35f74d470e8fcf3fb95925e54, type: 2}
   - {fileID: 11400000, guid: 9296f4b92a45044f3b6e854ffb08a417, type: 2}

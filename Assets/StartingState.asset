@@ -14,9 +14,9 @@ MonoBehaviour:
   storyText: 'Dr. Carwin! You''ve finally arrived! Where would you like to go?
 
 
-    1. Room 1
+    1. The Pines
 
-    2. Room 2'
+    2. The Meadows'
   nextStates:
   - {fileID: 11400000, guid: 01cad6c35f74d470e8fcf3fb95925e54, type: 2}
   - {fileID: 11400000, guid: 2c711e247830c4316b10a490fa031b65, type: 2}
