@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2de662b11e984b80b5c6b87dacfe365, type: 3}
+  m_Name: A0 Intro
+  m_EditorClassIdentifier: 
+  storyText: "Welcome to CaptorTEXT! \n\nTo begin game, press 1.\nTo quit game, press
+    Q."
+  nextStates:
+  - {fileID: 11400000, guid: 9296f4b92a45044f3b6e854ffb08a417, type: 2}
+  - {fileID: 0}
