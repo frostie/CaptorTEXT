@@ -5,3 +5,4 @@ A text-based game made in Unity. Precursor to CaptorRPG.
 - Finish Game Design XML
 - Program entire game loop based on game design
 - Update UI visuals
+  - Add different visuals for each map (e.g., The Pines, The Meadows, etc.)
