@@ -1,6 +1,5 @@
 ![alt text](https://github.com/pippom/CaptorTEXT/blob/master/CaptorTEXT-logo.png)
 
-# CaptorTEXT
 A text-based game made in Unity. Precursor to CaptorRPG.
 
 ## Next Actions
