@@ -8,3 +8,6 @@ A text-based game made in Unity. Precursor to CaptorRPG.
 - Program entire game loop based on game design
 - Update UI visuals
   - Add different visuals for each map (e.g., The Pines, The Meadows, etc.)
+
+## An Early Look
+![alt text](https://github.com/pippom/CaptorTEXT/blob/master/Screenshot_1.png)
