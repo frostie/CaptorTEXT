@@ -1,6 +1,6 @@
 ![alt text](https://github.com/pippom/CaptorTEXT/blob/master/CaptorTEXT-logo.png)
 
-A text-based game made in Unity. You will embark on an expedition to capture some of the world's most exotic animals... But before you can catch them, you must solve mathematical problems - each more challenging as you progress! 
+* A text-based game made in Unity. You will embark on an expedition to capture some of the world's most exotic animals... But before you can catch them, you must solve mathematical problems - each more challenging as you progress! *
 
 This game is a precursor to CaptorRPG.
 
