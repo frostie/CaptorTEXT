@@ -4,7 +4,7 @@
 
 This game is a precursor to CaptorRPG.
 
-## Next Actions
+# Next Actions
 - Finish Game Design XML
   - Add more content to current design
 - Program entire game loop based on game design
@@ -14,11 +14,11 @@ This game is a precursor to CaptorRPG.
 - Write game synopsis
 - Release game (platforms unknown at this time)
 
-## An Early Look
+# An Early Look
 ![alt text](https://github.com/pippom/CaptorTEXT/blob/master/Screenshot_1.png)
 
-### Animals
-#### North America
+## Animals
+### North America
 - Hare (Lepus)
 - White-tailed Deer (Odocoileus virginianus)
 - Gray Wolf (Canis lupus)
