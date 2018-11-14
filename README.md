@@ -18,6 +18,7 @@ This game is a precursor to CaptorRPG.
 ![alt text](https://github.com/pippom/CaptorTEXT/blob/master/Screenshot_1.png)
 
 ### Animals
+#### North America
 - Hare (Lepus)
 - White-tailed Deer (Odocoileus virginianus)
 - Gray Wolf (Canis lupus)
