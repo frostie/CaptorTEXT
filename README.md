@@ -16,3 +16,11 @@ This game is a precursor to CaptorRPG.
 
 ## An Early Look
 ![alt text](https://github.com/pippom/CaptorTEXT/blob/master/Screenshot_1.png)
+
+### Animals
+- Hare (Lepus)
+- White-tailed Deer (Odocoileus virginianus)
+- Gray Wolf (Canis lupus)
+- Moose (Alces alces)
+- Black Bear (Ursus americanus)
+- More to be listed...
