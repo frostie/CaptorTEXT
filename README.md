@@ -27,9 +27,3 @@ Genre: Educational RPG
 - Moose (Alces alces)
 - Black Bear (Ursus americanus)
 - More to be listed...
-
-## Considerations
-- Player experience
-- Core mechanic
-- Theme
-- Core game loop
