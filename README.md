@@ -4,7 +4,7 @@
 
 This game is a precursor to CaptorRPG.
 
-Genre: Educational RPG
+Genre: Educational text-based RPG
 
 # Next Actions
 - Finish Game Design XML
