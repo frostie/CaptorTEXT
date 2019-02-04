@@ -27,3 +27,6 @@ Genre: Educational text-based RPG
 - Moose (Alces alces)
 - Black Bear (Ursus americanus)
 - More to be listed...
+
+## Credits
+- Foundational code provided by Ben Tristem's and Rick Davidson's "Complete C# Unity Developer 2D: Learn to Code Making Games" tutorials
